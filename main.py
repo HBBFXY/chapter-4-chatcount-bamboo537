@@ -3,7 +3,7 @@ digit_count = 0
 space_count = 0
 other_count = 0
 
-input_str = abcde 123 @#$%
+input_str =" abcde 123 @#$%"
 
 for char in input_str:
     if char.isalpha():
