@@ -1,9 +1,8 @@
-input_str = "Abc123  你好！@#"
+input_str="abc123你好!@#"
 letter_count = 0
 digit_count = 0
 space_count = 0
 other_count = 0
-
 for char in input_str:
     if char.isalpha():
         letter_count += 1
