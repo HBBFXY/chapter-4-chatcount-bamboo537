@@ -1,4 +1,4 @@
-input_str="abc123你好!@#"
+input_str="abc123 你好 !@#&"
 letter_count=0
 digit_count=0
 space_count=0
